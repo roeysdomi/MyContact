@@ -1,0 +1,27 @@
+.con-login{
+  width: 100vw;
+  height:100vh;
+  display: flex;
+  background-color: #b71c1c;
+align-content: center;
+justify-content: center;
+align-items: center;
+
+}
+.login{
+  width:300px;
+  height: 300px;
+  border-radius: 8px;
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: column;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding:50px;
+}
+.login > input{
+  border-color: transparent;
+  display: flex;
+  justify-content:center;
+}
